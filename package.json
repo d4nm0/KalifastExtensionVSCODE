@@ -2,7 +2,7 @@
   "name": "kalifastgit",
   "displayName": "KalifastGit",
   "description": "KalifastGit is a vscode extension that you connect to your kalifast project to check that your code has been modified on the right branch.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.84.0"
   },

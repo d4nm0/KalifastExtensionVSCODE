@@ -28,8 +28,8 @@ Toute contribution à cette extension est la bienvenue. N'hésitez pas à soumet
 
 ## Auteurs
 
-- Votre Nom
+- MONCEAU DAN
 
 ## Licence
 
-Cette extension est sous licence [licence](https://github.com/d4nm0/KalifastExtensionVSCODE) dans le [référentiel](https://github.com/d4nm0/KalifastExtensionVSCODE).
+Cette extension est sous licence [licence](https://github.com/microsoft/vscode-extension-samples/blob/main/LICENSE) dans le [référentiel](https://github.com/d4nm0/KalifastExtensionVSCODE).

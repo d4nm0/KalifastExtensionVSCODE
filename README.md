@@ -1,6 +1,6 @@
-# Votre Extension
+# KalifastGit
 
-Ceci est une extension pour Visual Studio Code qui fournit des fonctionnalités supplémentaires.
+KalifastGit is a Visual Studio Code extension that connects to your Kalifast project to check that your code has been modified on the right branch.
 
 ## Installation
 
@@ -14,13 +14,13 @@ Une fois l'extension installée, ouvrez Visual Studio Code et utilisez les fonct
 
 ## Fonctionnalités
 
-- Fonctionnalité 1 : Description de la fonctionnalité.
-- Fonctionnalité 2 : Description de la fonctionnalité.
+- Connectivité au projet Kalifast.
+- Vérification des modifications sur la branche correcte.
 
 ## Configuration
 
-- `paramètre1` : Description du paramètre 1.
-- `paramètre2` : Description du paramètre 2.
+- `token` : Clé d'accès au projet Kalifast.
+- `projectURL` : URL du projet Kalifast.
 
 ## Contributions
 
@@ -32,4 +32,4 @@ Toute contribution à cette extension est la bienvenue. N'hésitez pas à soumet
 
 ## Licence
 
-Cette extension est sous licence [licence](link).
+Cette extension est sous licence [licence](https://github.com/d4nm0/KalifastExtensionVSCODE) dans le [référentiel](https://github.com/d4nm0/KalifastExtensionVSCODE).
